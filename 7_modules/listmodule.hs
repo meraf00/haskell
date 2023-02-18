@@ -1,4 +1,4 @@
-import Data.List (intercalate, intersperse, transpose)
+import Data.List (intercalate, intersperse, transpose, find)
 
 who :: [Char]
 who = intersperse '.' "WHO"
